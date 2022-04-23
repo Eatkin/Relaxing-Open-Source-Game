@@ -1,0 +1,3 @@
+/// @description
+
+global.pause=false;

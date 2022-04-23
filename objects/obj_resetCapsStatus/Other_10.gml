@@ -1,0 +1,3 @@
+/// @description
+
+global.caps=false;

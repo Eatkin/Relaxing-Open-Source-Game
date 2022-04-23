@@ -1,0 +1,9 @@
+NOSPACES
+Hello, this is just to test a thing I did where hopefully untypable characters, like this one: µ will be auto-typed for you so it won't ruin the game.
+
+Thanks for playing and thanks for checking out this text to type.
+
+Here's some more untypeable characters to test: §¥¢²¾
+
+It might increase your WPM a little bit but at least you won't get stuck on a text. I bet that's really annoying. Sorry if that happened to you.
+ENDOFFILE

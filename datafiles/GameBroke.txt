@@ -1,0 +1,3 @@
+NOSPACES
+Failed to load text. Game broke. You should never see this.
+ENDOFFILE

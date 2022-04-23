@@ -1,0 +1,3 @@
+/// @description
+
+coinsToDisplay=0;

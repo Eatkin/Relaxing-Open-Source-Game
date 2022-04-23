@@ -1,0 +1,3 @@
+/// @description
+
+progress=chars/totalChars;

@@ -1,0 +1,7 @@
+NOSPACES
+There was an Old Person of Ewell,
+Who chiefly subsisted on gruel;
+But to make it more nice,
+He inserted some mice,
+Which refreshed that Old Person of Ewell.
+ENDOFFILE

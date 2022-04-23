@@ -1,0 +1,29 @@
+NOSPACES
+A game by Edward Atkin
+
+Music composed by DOS-88 & Mark Mauer
+
+Backgrounds by Ansimuz
+
+UI Graphics by Kenney.nl
+
+Sounds by Edward Atkin & Kenney.nl
+
+Authors:
+Edward Lear
+Edgar Allan Poe
+Lewis Carroll
+William Shakespeare
+
+Additional text:
+Tommy van Son (APPX script)
+
+Additional credits:
+DisOmikron for his vocal talents
+
+One pixel font by Goose Ninja
+
+Public domain literature sourced from:
+Public Domain Poetry
+Project Gutenberg
+ENDOFFILE

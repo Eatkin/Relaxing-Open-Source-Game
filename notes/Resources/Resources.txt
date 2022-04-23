@@ -1,0 +1,53 @@
+Pixel backgrounds are by Ansimuz:
+Public domain:
+https://opengameart.org/content/forest-background
+https://opengameart.org/content/mountain-at-dusk-background
+https://opengameart.org/content/bulkhead-walls-hangar
+https://opengameart.org/content/horror-tile-set
+
+CC 3.0:
+https://opengameart.org/content/underwater-fantasy
+https://opengameart.org/content/cyberpunk-street-environment
+
+CC 3.0 Licence:
+https://creativecommons.org/licenses/by/3.0/
+
+
+Authors (public domain):
+Edward Lear
+Lewis Carroll
+William Shakespeare
+Edgar Allan Poe
+
+Soured from:
+www.public-domain-poetry.com
+www.gutenberg.org
+
+
+Additional authors:
+Tommy van Son for his APPX code
+
+
+UI graphics (public domain):
+Kenney.nl
+
+
+Easing functions:
+easings.net
+
+
+Sounds (public domain):
+Kenney.nl
+
+
+One pixel font by Goose Ninja:
+https://gooseninja.itch.io/one-by-one-pixel-font
+
+
+Programming:
+Edward Atkin
+
+
+Music:
+DOS-88:
+https://dos88.itch.io/dos-88-music-library
